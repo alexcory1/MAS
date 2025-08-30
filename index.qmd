@@ -18,7 +18,9 @@ Each class will have a folder in which work from said class will be saved. There
 # Links
 
 
-[Notes](notes/){.btn .btn-primary}
+<a href="https://github.com/alexcory1/MAS/tree/main/notes" target="_blank">
+  <button>View Notes</button>
+</a>
 
 | Class | Projects |
 |-------|----------|
