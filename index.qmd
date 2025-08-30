@@ -1,0 +1,30 @@
+---
+title: "Masters of Applied Statistics Repository"
+author: Alex Cory
+date: "2025-08-30"
+format: html
+---
+
+# Welcome
+
+This repository serves as a **central hub for my work in the Masters of Applied Statistics program** at Iowa State University. It contains my projects and notes taken during my degree.
+
+---
+
+## Repository Structure
+
+Each class will have a folder in which work from said class will be saved. There is also a folder for notes, which contains markdown files for all of my notes taken which can be viewed in either Obsidian Notes or a markdown viewer of your choice.
+
+# Links
+
+
+<div style="margin-bottom: 20px;">
+  <a href="notes/" style="text-decoration: none;">
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">📓 Notes</button>
+  </a>
+</div>
+
+| Class | Projects |
+|-------|----------|
+| STAT5147: Statistical Theory | [Open Folder](STAT5147) |
+  
