@@ -18,11 +18,7 @@ Each class will have a folder in which work from said class will be saved. There
 # Links
 
 
-<div style="margin-bottom: 20px;">
-  <a href="notes/" style="text-decoration: none;">
-    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">📓 Notes</button>
-  </a>
-</div>
+[Notes](notes/){.btn .btn-primary}
 
 | Class | Projects |
 |-------|----------|
